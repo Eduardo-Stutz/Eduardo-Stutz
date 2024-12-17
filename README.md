@@ -1,4 +1,14 @@
-## Hi there 👋
+### Oi, meu nome é Eduardo Stutz 👨‍💻
+Técnico em Análise e Desenvolvimento de Sistemas. <br>
+Desenvolvedor de Web-Services, Sites, ERP's, SaaS e LandingPages. <br>
+<hr>
+- 🔭 Freelancer em <b>PHP (Laravel)</b> <br>
+- 🌱 Aperfeiçoando habilidades em CodeIgniter4.<br>
+- 🌟 Buscando a qualificação <b>Desenvolvedor Web Full-Stack</b><br>
+- ⚡ Entusiasta da tecnologia e inovação.
+
+
+
 
 <!--
 **Eduardo-Stutz/Eduardo-Stutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
