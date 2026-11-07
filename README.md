@@ -1,10 +1,9 @@
 ### Oi, meu nome é Eduardo Stutz 👨‍💻
-Técnico em Análise e Desenvolvimento de Sistemas. <br>
-Desenvolvedor de Web-Services, Sites, ERP's, SaaS e LandingPages. <br>
+Desenvolvedor, entusiasta AI, sócio da 2D Labs tecnologia e criador de soluções. <br>
 <hr>
 - 🔭 Desenvolvedor <b>PHP (Laravel)</b> <br>
-- 🌱 Analista de dados.<br>
-- 🌟 <b>Desenvolvedor Web Full-Stack</b><br>
+- 🌱 Analista de sistemas e dados.<br>
+- 🌟 <b>Desenvolvedor Full-Stack</b><br>
 - ⚡ Entusiasta da tecnologia e inovação.
 
 
